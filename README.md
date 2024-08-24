@@ -1,2 +1,4 @@
 # Portfolio
-My HTML/CSS Portofolio
+My Web HTML/CSS Portofolio
+
+- Currently Optimized on Laptop 
